@@ -26,6 +26,11 @@ nav ol li {
   font-weight: bold;
 }
 
+a {
+  color: #c9b5ab;
+  text-decoration: none;
+}
+
 a:link {
   color: #c9b5ab;
   text-decoration: none;

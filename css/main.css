@@ -2,27 +2,28 @@ html {
   background-color: #c9b5ab;
   line-height: 1.5;
   color: #222;
+  font-family: PT Serif;
 }
 
 h1 {
   color: #3f1622;
   font-family: PT Sans;
   font-size: 1.5rem;
-  font-weight: bold
+  font-weight: bold;
 }
 
 h2 {
   color: #3f1622;
   font-family: PT Sans;
   font-size: 1.5rem;
-  font-weight: bold
+  font-weight: bold;
 }
 
 nav ol li {
   color: #8f2440;
   font-family: PT Sans;
   list-style-type: none;
-  font-weight: bold
+  font-weight: bold;
 }
 
 a:link {
@@ -42,11 +43,12 @@ img {
 figcaption {
   font-style: italic;
   text-align: center;
+  font-weight: normal;
 }
 
 .germ {
   font-size: 1.125rem;
-  font-weight: bold
+  font-weight: bold;
 }
 
 blockquote p {
